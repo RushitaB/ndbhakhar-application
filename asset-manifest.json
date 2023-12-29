@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ndbhakhar-application/static/css/main.252f16e5.css",
+    "main.js": "/ndbhakhar-application/static/js/main.d2e08fe0.js",
+    "static/js/787.70e946a7.chunk.js": "/ndbhakhar-application/static/js/787.70e946a7.chunk.js",
+    "static/media/image 3.png": "/ndbhakhar-application/static/media/image 3.a68b5a7c41eb8980bc21.png",
+    "static/media/logo.png": "/ndbhakhar-application/static/media/logo.40707992c21d81ab487a.png",
+    "static/media/about.jpg": "/ndbhakhar-application/static/media/about.6f5558384ee598737aea.jpg",
+    "static/media/icomoon.svg?3pgiup": "/ndbhakhar-application/static/media/icomoon.1ac966e404cab725a887.svg",
+    "static/media/icomoon.eot?3pgiup": "/ndbhakhar-application/static/media/icomoon.eb16ae331d1b8c06ed80.eot",
+    "static/media/icomoon.woff?3pgiup": "/ndbhakhar-application/static/media/icomoon.b524a23e211a008cd4be.woff",
+    "static/media/icomoon.ttf?3pgiup": "/ndbhakhar-application/static/media/icomoon.586c91dbecfa9f1ad468.ttf",
+    "index.html": "/ndbhakhar-application/index.html",
+    "main.252f16e5.css.map": "/ndbhakhar-application/static/css/main.252f16e5.css.map",
+    "main.d2e08fe0.js.map": "/ndbhakhar-application/static/js/main.d2e08fe0.js.map",
+    "787.70e946a7.chunk.js.map": "/ndbhakhar-application/static/js/787.70e946a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.252f16e5.css",
+    "static/js/main.d2e08fe0.js"
+  ]
+}
